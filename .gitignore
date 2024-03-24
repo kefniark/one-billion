@@ -1,0 +1,5 @@
+*.pprof
+*.pgo
+output.out
+stats.out
+data/*.txt
